@@ -5,4 +5,4 @@ Here I have done Sentimental Analysis using NLTK functions. Also I tried doing i
 
 Senti.py File contains logic of NLP method.
 Clfile.py File contains logic of Naive Bayes.
-Scrap.py file contains logic to web scrap data from Amazon site and generate .CSV file.
+ScrapData.py file contains logic to web scrap data from Amazon site and generate .CSV file.
